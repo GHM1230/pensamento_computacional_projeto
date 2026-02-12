@@ -1,6 +1,0 @@
-print("\n=== 🍷 Açaíataria 🍷 ===")
-print("1. Cadastro 📝 ")
-print("2. Cardápio 📋")
-print("3. Pedidos 🛒")
-print("4. Ajuda ❓")
-print("5. Sair 🚪")
